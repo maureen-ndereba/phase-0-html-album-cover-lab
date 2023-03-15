@@ -4,6 +4,7 @@
 
 - Use common HTML tags to produce a webpage based on a mock-up
 
+
 ## Introduction
 
 Learning all the individual pieces that make up a web page is a necessary first
